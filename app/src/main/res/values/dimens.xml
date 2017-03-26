@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingLeft">16dp</dimen>
+    <dimen name="paddingRight">16dp</dimen>
+    <dimen name="title_confirm_contact">30sp</dimen>
+    <dimen name="marginLabel">2dp</dimen>
+    <dimen name="labelName">20sp</dimen>
+    <dimen name="marginEditBtn">30dp</dimen>
+    <dimen name="marginTopField">10dp</dimen>
+    <dimen name="marginTitleConfirm">10dp</dimen>
+</resources>

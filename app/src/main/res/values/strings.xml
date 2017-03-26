@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MiContacto</string>
+    <string name="form_username">Nombre Completo</string>
+    <string name="form_telephone">Teléfono</string>
+    <string name="form_email">Email</string>
+    <string name="form_description">Descripción contacto</string>
+    <string name="txt_btn_next">Siguiente</string>
+    <string name="title_confirm_contact">Confirmar Datos</string>
+    <string name="name_dummy">Lorem Ipsum</string>
+    <string name="date_dummy">10/11/2014</string>
+    <string name="tlf_dummy">888 555 444</string>
+    <string name="description_dummy">Esto es la descripción del contacto</string>
+    <string name="txt_btn_edit">Editar Datos</string>
+
+    <string name="res_name">name</string>
+    <string name="res_day">day</string>
+    <string name="res_month">month</string>
+    <string name="res_year">year</string>
+    <string name="res_tlf">tlf</string>
+    <string name="res_email">email</string>
+    <string name="res_description">description</string>
+    <string name="email_dummy">hola@hola.com</string>
+    <string name="labelDate">Fecha de nacimiento:</string>
+    <string name="labelTf">Teléfono:</string>
+    <string name="labelMail">Email:</string>
+    <string name="labelDescription">Descripción:</string>
+</resources>
